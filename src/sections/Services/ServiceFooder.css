@@ -1,0 +1,32 @@
+.ServiceFooder {
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/Images/Service/ServiceFooder.jpg) fixed center center;
+    background-size: cover;
+    padding: 100px 0;
+    margin-top: 50px;
+}
+.row.ServiceFooderText.d-flex {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+.col-12.foodertext {
+    text-align: center;
+    color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.servicebutton{
+    height: 60px;
+    width: 210px;
+    background: fixed;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 2%;
+    border: 3px solid white;
+    border-radius: 8px;
+}
+.servicebutton:hover{
+  background-color: orange;
+  color: black;
+  border-color: orange;
+}

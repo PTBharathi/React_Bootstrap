@@ -1,0 +1,61 @@
+.contacthead h4{
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.contacthead h4::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #ffde9e;
+    margin: 4px 10px;
+}
+.Contact{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.contactitems{
+    margin-top: 50px;
+}
+input[type="text"] {
+    height: 70%;
+    width: 100%;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.message input{
+    height: 10px;
+}
+.message input {
+    height: 100%;
+}
+.email{
+    margin-left: 10px;
+    width: 47%;
+}
+.name{
+    width: 47%;
+}
+.inputbutton{
+    margin-top: 20px;
+    text-align: center;
+}
+.inputbutton button{
+    background-color: orange;
+    height: 45px;
+    width: 140px;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.contacticon svg{
+    color: black;
+    height: 45px;
+    width: 45px;
+    margin-right: 8px;
+    background-color: #ffc451;
+    border-radius: 6px;
+    margin-left: 0px;
+}

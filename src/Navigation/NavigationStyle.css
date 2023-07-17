@@ -1,0 +1,96 @@
+a.navbar-brand {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+}
+a.navbar-brand:hover{
+color: white;
+}
+section.navigation {
+    background-color: black;
+}
+.nav-link {
+    color: white;
+    font-size: 19px;
+    font-weight: 500;
+}
+.nav-link:hover{
+    color: orange;
+}
+.nav-link:focus{
+    color: orange;
+}
+.nav-link.active:focus{
+color: orange;
+}
+button.navbar-toggler.collapsed {
+    background-color: white;
+}
+a#basic-nav-dropdown.show{
+    color: orange;
+}
+.dropdown-item:hover{
+    background-color: orange;
+    color: black;
+}
+.getstarted {
+    color: white;
+    padding: 6px 5px 1px 6px;
+    border: 1px solid orange;
+    border-radius: 3px;
+}
+.getstarted:hover{
+    color:black;
+    background-color: orange;
+    
+}
+.getstarted h1{
+    position: fixed;
+}
+
+@media (max-width: 620px){
+.getstarted {
+    position: relative;
+    margin-left: 55%;
+}
+}
+@media (max-width: 749px){
+    .getstarted {
+        position: relative;
+        margin-left: 55%;
+    }
+    }
+@media (min-width: 750px){
+    .getstarted {
+        margin-left: 50%;
+        position: relative;
+    }
+    }
+@media (min-width: 800px){
+    .getstarted {
+        margin-left: 70%;
+    }
+    }
+    @media (min-width: 900px){
+        .getstarted {
+            margin-left: 65%;
+        }
+        }
+        @media (min-width: 992px){
+            .getstarted{
+                position: absolute;
+                margin-left: 88%;
+            }   
+        }
+        @media (min-width: 1000px){
+            .getstarted {
+                position: absolute;
+                margin-left: 83%;
+            }
+            }
+            @media (min-width: 1200px){
+                .getstarted {
+                    position: absolute;
+                    margin-left: 73%;
+                }
+                }

@@ -1,0 +1,68 @@
+body{
+    overflow-x: hidden;
+}
+.AboutContainer{
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.AboutImage{
+    width: 100%;
+    height: 100%;
+}
+svg {
+    color: orange;
+    height: 20px;
+    width: 20px;
+    margin-right: 8px;
+}
+
+img.Carosalimage {
+    height: 4%;
+    width: 4%;
+    margin-left: 3%;
+    margin-right:3%;
+    margin-top: 40px;
+}
+
+img.Carosalimage {
+    /* filter: url(filters.svg#grayscale); Firefox 3.5+ */
+      filter: gray; /* IE5+ */
+      -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+      -webkit-transition: all .1s ease-in-out;  
+    }
+
+    img.Carosalimage:hover {
+    filter: none;
+      -webkit-filter: grayscale(0);
+      -webkit-transform: scale(1.01);
+    }
+    a.carousel-control-prev {
+        display: none;
+    }
+    a.carousel-control-next {
+        display: none;
+    }
+
+    .AboutFooder{
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 50px;
+    }
+    .AboutFooder img{
+        width: 100%;
+        height: 95%;
+        margin-bottom: 5%;
+    }
+    .AFooder-one img{
+        margin-bottom: 5%;
+    }
+    .AboutFooderText{
+        margin-left: 5%;
+        margin-bottom: 5%;
+        margin-top: 5%;
+    }
+    .Fooder-two svg{
+        height: 9%;
+        width: 9%;
+    }

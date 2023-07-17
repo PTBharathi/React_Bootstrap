@@ -1,0 +1,81 @@
+.Fooder{
+
+    background-color: rgb(31, 30, 30);
+    width: 100%;
+    color: white;
+    display: flex;
+}
+.FooderRow{
+    margin-top: 50px;
+    display: grid;
+    margin-left: 80px;
+}
+.FooderRow h2 {
+    font-size: 58px;
+    color: yellow;
+}
+.FooderAddress{
+    margin-top: 20px;
+    color: white;
+}
+.FooderContact div{
+    margin-top: 2px;
+    display:flex;
+}
+.FooderContact{
+margin-top: 50px;
+}
+.FooderContact p{
+margin-left: 10px;
+}
+.Fooderlink{
+    display: grid;
+    text-align: initial;
+}
+.Fooderlink a{
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+}
+.Fooderlink a:hover{
+    color: orange;
+}
+.FooderRowHead h5{
+    margin-left: -40px;
+}
+.FooderColumn{
+    margin-left: 70px;;
+}
+
+.fooderbutton input[type="text"] {
+    height: 42px;
+    width: 235px;
+}
+.fooderbutton button {
+    margin-left: -2px;
+    height: 41px;
+    background-color: orange;
+}
+.Fooder {
+    padding: 0px 0px 48px 1px;
+}
+.FooderCopyright{
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: grid;
+    text-align: center;
+}
+.FooderCopyright h6{
+margin-top: 0px;
+padding: 40px 0px 0px 0px
+}
+.FooderCopyright p{
+    padding: 0px 0px 45px 0px;
+    text-align: center;
+}
+.FooderCopyright a{
+    text-decoration: none;
+    color: orange;
+}
+

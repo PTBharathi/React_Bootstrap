@@ -1,0 +1,73 @@
+.Services{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#ServiceCard p {
+    color: gray;
+    font-weight: 400;
+    font-size: 16px;
+}
+#ServiceCard{
+    margin-left: 20px;
+}
+
+.Services h5::after{
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #ffde9e;
+    margin: 4px 10px;
+}
+
+#ServiceCard h4 {
+    font-weight: 700;
+    font-size: 39px;
+}
+
+#ServiceCard {
+    border: 1px solid black;
+    height: 350px; 
+    border: 1px solid rgb(240, 231, 231);
+}
+
+.CardIcon {
+    margin-top: 20%;
+}
+
+#ServiceCard {
+    margin-top: 70px;
+    transition: all ease-in-out 0.3s;
+}
+
+#ServiceCard:hover{
+    border: 10px solid rgb(241, 239, 239);
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    transition: all ease-in-out 0.3s;
+}
+div#ServiceCard {
+    text-align: center;
+}
+.row.servicecartitems {
+    place-content: center;
+}
+.CardIcon svg {
+    color: black;
+    background-color: orange;
+    height: 50px;
+    width: 57px;
+}
+.CardHead{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.CardHead:hover{
+    color: orange;
+}
+.CardPadding{
+    place-content: center;
+}
