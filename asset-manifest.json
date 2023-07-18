@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Bootstrap/static/css/main.4ab0bd31.css",
+    "main.js": "/React_Bootstrap/static/js/main.bc0ce8cd.js",
+    "static/js/787.d450749f.chunk.js": "/React_Bootstrap/static/js/787.d450749f.chunk.js",
+    "static/media/Portfolioimage.jpg": "/React_Bootstrap/static/media/Portfolioimage.55ad5549d3aa2a72bd4d.jpg",
+    "static/media/ServiceFooder.jpg": "/React_Bootstrap/static/media/ServiceFooder.c241efe7fccf8fac3e06.jpg",
+    "static/media/HomeImage.jpg": "/React_Bootstrap/static/media/HomeImage.2a68e50629dde2c24696.jpg",
+    "static/media/AboutFooderImage.png": "/React_Bootstrap/static/media/AboutFooderImage.d97d337985b46640dd8b.png",
+    "static/media/AboutImage.jpg": "/React_Bootstrap/static/media/AboutImage.12c36986883e7b1a434f.jpg",
+    "static/media/Bharathi.jpeg": "/React_Bootstrap/static/media/Bharathi.e300f326dee5a67b76df.jpeg",
+    "static/media/2.png": "/React_Bootstrap/static/media/2.661a8d22097791cf8c6d.png",
+    "index.html": "/React_Bootstrap/index.html",
+    "main.4ab0bd31.css.map": "/React_Bootstrap/static/css/main.4ab0bd31.css.map",
+    "main.bc0ce8cd.js.map": "/React_Bootstrap/static/js/main.bc0ce8cd.js.map",
+    "787.d450749f.chunk.js.map": "/React_Bootstrap/static/js/787.d450749f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab0bd31.css",
+    "static/js/main.bc0ce8cd.js"
+  ]
+}
